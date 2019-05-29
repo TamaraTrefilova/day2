@@ -1,0 +1,24 @@
+h1{
+  color:orange;
+  text-align: center;
+
+}
+
+h2{
+  font-style: cursive;
+  text-align: right;
+}
+
+p{
+  font-family: monospace;
+  font-weight:800;
+}
+
+ul{
+  font-size: 20px;
+  line-height: 30px;
+}
+ol{
+  color: red;
+  font-style: oblique;
+}
